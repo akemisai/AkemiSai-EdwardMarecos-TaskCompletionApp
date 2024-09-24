@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Task Completion App"
 include(":app")
+ 
